@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning HTML & CSS with JAVASCRIPT.
 - 💞️ I’m looking to collaborate on my LANGUAGE SKILLS & trying to get a JOB.
-- 📫 How to reach me by doing email.
+- 📫 How to reach me - by email on agrawalrajat310@gmail.com
 
 <!---
 agrawalrajat310/agrawalrajat310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
