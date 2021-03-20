@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RAJAT AGRAWAL.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning HTML/CSS with JAVASCRIPT.
-- 💞️ I’m looking to collaborate on my LANGUAGE SKILLS & get me a JOB.
+- 🌱 I’m currently learning HTML & CSS with JAVASCRIPT.
+- 💞️ I’m looking to collaborate on my LANGUAGE SKILLS & trying to get a JOB.
 - 📫 How to reach me by doing email.
 
 <!---
