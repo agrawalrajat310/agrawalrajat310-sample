@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RAJAT AGRAWAL.
-- 👀 I’m interested in Coding.
+- 👀 I’m interested in Coding, slick & fast websites and Apps.
 - 🌱 I learned HTML, CSS, JAVASCRIPT, React + Redux yet & other many more LANGUAGES on the way.
 - -> Frontend Developer & upcoming Fullstack Developer.
 - 💞️ I’m looking to collaborate on my LANGUAGE SKILLS & actively applying for JOBs.
