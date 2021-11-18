@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RAJAT AGRAWAL.
 - 👀 I’m interested in Coding.
-- 🌱 I learned HTML, CSS, JAVASCRIPT, React + Redux & other many more LANGUAGES on the way.
+- 🌱 I learned HTML, CSS, JAVASCRIPT, React + Redux yet & other many more LANGUAGES on the way.
 - -> Frontend Developer & upcoming Fullstack Developer.
 - 💞️ I’m looking to collaborate on my LANGUAGE SKILLS & actively applying for JOBs.
 - 📫 How to reach me - do email me on agrawalrajat03@outlook.com
