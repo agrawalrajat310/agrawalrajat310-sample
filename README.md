@@ -6,7 +6,7 @@
 - 🧑‍💻 Actively applying for JOBs.
 - 📫 How to reach me - do email me on agrawalrajat03@outlook.com
 - ![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png) My LinkedIn Profile - https://www.linkedin.com/in/rajatagrawal310/
-https://media.licdn.com/dms/image/C4D03AQF8YFY-oI_NaA/profile-displayphoto-shrink_400_400/0?e=1651104000&v=beta&t=dMv4MoSJ9SyhBmRVG_GT44Y4y2qF9EFYcOBsNRhh3jQ
+
 
 
 <!---
