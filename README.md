@@ -1,6 +1,6 @@
 - 👋 Hi, I’m RAJAT AGRAWAL.
 - 👀 I’m interested in Coding, making Slick & Fast Websites.
-- 🌱 I learned HTML, CSS, JAVASCRIPT, React + Redux, Responsive Web Design, SQL yet & many more are on the way to be listed here.
+- 🌱 I learned HTML, CSS, JS, React JS + Redux, Responsive Web Design, SQL yet & many more are on there way to be listed here.
 - -> Currently Frontend Developer & Upcoming MERN Stack Developer.
 - 💞️ I am doing collab with my language and communication skills.
 - 🧑‍💻 Actively applying for JOBs.
